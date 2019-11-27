@@ -1,5 +1,5 @@
-# Basic Portfolio
-Portfolio project for Bootcamp which includes an About, Portfolio, and Contact Page.
+# Responsive Portfolio
+Responsive Portfolio project for Berklee Bootcamp which includes an About, Portfolio, and Contact Page.
 
 # Technologies
 * HTML
@@ -7,7 +7,12 @@ Portfolio project for Bootcamp which includes an About, Portfolio, and Contact P
 * Javascript
 
 # Deployed Site
-* [Portfolio](https://skuttenkuler.github.io/basic-porfolio/)
+* [Portfolio](https://skuttenkuler.github.io/responsive-porfolio/)
+
+# Screenshots
+![Alt text](./assets/images/screen3.png?raw=true "Optional Title")
+![Alt text](./assets/images/screen1.png?raw=true "Optional Title")
+![Alt text](./assets/images/screen2.png?raw=true "Optional Title")
 
 # Author
 - Sam Kuttenkuler
