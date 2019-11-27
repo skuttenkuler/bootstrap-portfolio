@@ -84,7 +84,7 @@ body{
     width: 960px;
     margin-left: 80px;
     margin-top:30px;
-    margin-bottom:80px;
+    margin-bottom:180px;
   }
   .port-container h1{
     margin-left: 30px;
@@ -204,6 +204,12 @@ body{
   margin-left: 30px;
   margin-top: 50px;
   color: #777777;
+}
+.label {
+  margin-left:-80px;
+}
+.label-message{
+  margin-left:-40px;
 }
 
 input[type=text]{
